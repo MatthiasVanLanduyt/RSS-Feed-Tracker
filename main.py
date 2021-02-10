@@ -12,6 +12,7 @@ def scrape (url):
 
             print(f"Title: {entry.title}")
             print(f'Date: {entry.published}')
+            print(f'Link: {entry.link}')
             print(f"Summary: {entry.summary_detail.value}")
             print('\n---------------------------------\n')
         
