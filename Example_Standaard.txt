@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>De Standaard : Biz</title>
+        <link>https://www.standaard.be/biz</link>
+        <description>De Standaard : Biz</description>
+        <language>nl-BE</language>
+        <lastBuildDate>Tue, 09 Feb 2021 21:25:11 +0100</lastBuildDate>
+        <image>
+            <url>https://static.standaard.be/extra/assets/img/logo-ds-rss.gif</url>
+            <title>De Standaard : Biz</title>
+            <link>https://www.standaard.be/biz</link>
+        </image>
+        <ttl>2</ttl>
+        <pubDate>Tue, 09 Feb 2021 21:25:11 GMT</pubDate>
+        <item>
+            <guid isPermaLink="true">https://www.standaard.be/cnt/dmf20210209_95940618</guid>
+            <link>https://www.standaard.be/cnt/dmf20210209_95940618</link>
+            <title>Dertigtal banen op de tocht bij AB Inbev in Jupille</title>
+            <description>&lt;P&gt;In de Luikse vestiging van AB InBev in Jupille staan een dertigtal banen op de tocht en worden mogelijk ook 58 tijdelijke contracten niet verlengd. Die banen zijn in gevaar, omdat AB Inbev de Stella Artois die in Jupille gemaakt wordt voor niet-Europese markten geleidelijk lokaal wil brouwen. &lt;/P&gt;</description>
+            <pubDate>Tue, 09 Feb 2021 17:15:42 +0100</pubDate>
+            <enclosure url="https://static.standaard.be/Assets/Images_Upload/2021/02/09/f4e3aa7c-6af3-11eb-b27b-2be5c46b577f_web_scale_0.0677277_0.0677277__.jpg" type="image/jpeg" />
+        </item>
+        <item>
+            <guid isPermaLink="true">https://www.standaard.be/cnt/dmf20210209_95103781</guid>
+            <link>https://www.standaard.be/cnt/dmf20210209_95103781</link>
+            <title>Gesloten grenzen zijn rem op economische relance</title>
+            <description>&lt;P&gt;Door de pandemie drogen de migratiestromen op. Dat bemoeilijkt het economisch herstel na de crisis. &lt;/P&gt;</description>
+            <pubDate>Tue, 09 Feb 2021 15:09:38 +0100</pubDate>
+            <enclosure url="https://static.standaard.be/Assets/Images_Upload/2021/02/09/b15e3062-6ad3-11eb-9b9c-58dfd3aa1919_web_scale_0.2266039_0.2266039__.jpg" type="image/jpeg" />
+        </item>
+        <item>
+            <guid isPermaLink="true">https://www.standaard.be/cnt/dmf20210209_95637308</guid>
+            <link>https://www.standaard.be/cnt/dmf20210209_95637308</link>
+            <title>Hackers breken in bij maker van Cyberpunk 2077 </title>
+            <description>&lt;P&gt;De Poolse spelletjesontwikkelaar- en uitgever CD Projekt, bekend van games zoals The Witcher en meer recent Cyberpunk 2077, is maandag het slachtoffer geworden van een ‘doelgerichte cyberaanval’. Daarbij is ook data ontvreemd, geeft het bedrijf dinsdag toe.&lt;/P&gt;</description>
+            <pubDate>Tue, 09 Feb 2021 16:23:38 +0100</pubDate>
+            <enclosure url="https://static.standaard.be/Assets/Images_Upload/2021/02/09/992801c6-6aec-11eb-9b9c-58dfd3aa1919_web_scale_0.119403_0.119403__.jpg" type="image/jpeg" />
+        </item>
+        <item>
+            <guid isPermaLink="true">https://www.standaard.be/cnt/dmf20210209_94288259</guid>
+            <link>https://www.standaard.be/cnt/dmf20210209_94288259</link>
+            <title>Proces aangespannen tegen Robinhood-app na zelfmoord jonge belegger</title>
+            <description>&lt;P&gt;De familie van een jongeman die zichzelf van het leven benam nadat hij dacht zware verliezen te hebben geleden met de online-beleggingsapp Robinhood, heeft een klacht ingediend tegen het bedrijf. Ze vinden dat het platform onervaren beleggers aanzet om meer risico te nemen, en eisen een schadevergoeding. &lt;/P&gt;</description>
+            <pubDate>Tue, 09 Feb 2021 12:54:17 +0100</pubDate>
+            <enclosure url="https://static.standaard.be/Assets/Images_Upload/2021/02/09/fb5885f4-6ac5-11eb-b27b-2be5c46b577f_web_scale_0.1306336_0.1306336__.jpg" type="image/jpeg" />
+        </item>
+        <item>
+            <guid isPermaLink="true">https://www.standaard.be/cnt/dmf20210208_97530689</guid>
+            <link>https://www.standaard.be/cnt/dmf20210208_97530689</link>
+            <title>Musk lanceert bitcoin de stratosfeer in</title>
+            <description>&lt;P&gt;Tesla heeft voor 1,5 miljard dollar aan bitcoins gekocht. Daarmee zet ceo Elon Musk een turbo op de cryptomunt, waarmee je nu ook auto’s kunt kopen. Maar is dat wel koosjer?&lt;/P&gt;</description>
+            <pubDate>Mon, 08 Feb 2021 21:54:49 +0100</pubDate>
+            <enclosure url="https://static.standaard.be/Assets/Images_Upload/2021/02/08/127131be-6a4e-11eb-8801-b4ffea65f39e_web_scale_0.4449388_0.4449388__.jpg" type="image/jpeg" />
+        </item>
+        <item>
+            <guid isPermaLink="true">https://www.standaard.be/cnt/dmf20210208_96916295</guid>
+            <link>https://www.standaard.be/cnt/dmf20210208_96916295</link>
+            <title>China roept Tesla ter verantwoording</title>
+            <description>&lt;P&gt;De Chinese autoriteiten hebben verantwoordelijken van de Amerikaanse autobouwer Tesla op het matje geroepen wegens ‘disfuncties’ bij zijn elektrische auto’s. Het zou gaan om veiligheidsproblemen, zoals onvrijwillig accelereren of een batterij die in brand schiet, aldus de marktregulator.&lt;/P&gt;</description>
+            <pubDate>Mon, 08 Feb 2021 19:55:08 +0100</pubDate>
+            <enclosure url="https://static.standaard.be/Assets/Images_Upload/2021/02/09/0984964c-6a38-11eb-8801-b4ffea65f39e_web_scale_0.0736784_0.0736784__.jpg" type="image/jpeg" />
+        </item>
+        <item>
+            <guid isPermaLink="true">https://www.standaard.be/cnt/dmf20210208_96425904</guid>
+            <link>https://www.standaard.be/cnt/dmf20210208_96425904</link>
+            <title>Minister en NMBS-top toch akkoord over loketten </title>
+            <description>&lt;P&gt;Minister van Mobiliteit Georges Gilkinet (Ecolo) en NMBS-ceo Sophie Dutordoir hebben een gemeenschappelijk standpunt uitgewerkt over het dossier van de loketten. Dutordoir zal dat ontwerp dinsdag verdedigen bij de raad van bestuur van de NMBS.&lt;/P&gt;</description>
+            <pubDate>Mon, 08 Feb 2021 18:39:07 +0100</pubDate>
+            <enclosure url="https://static.standaard.be/Assets/Images_Upload/2021/02/08/5289e468-6719-11eb-9e46-36a4cc722fdc_web_scale_0.1212121_0.1212121__.jpg" type="image/jpeg" />
+        </item>
+        <item>
+            <guid isPermaLink="true">https://www.standaard.be/cnt/dmf20210208_95072722</guid>
+            <link>https://www.standaard.be/cnt/dmf20210208_95072722</link>
+            <title>Bitcoin naar nieuwe recordwaarde na investering Tesla van 1,5 miljard dollar</title>
+            <description>&lt;P&gt;Tesla heeft 1,5 miljard dollar geïnvesteerd in de virtuele munt bitcoin, zo blijkt maandag uit een document aan de Amerikaanse beurswaakhond SEC. Het bedrijf van Elon Musk gaat de munt ook accepteren als betaalmiddel voor de aankoop van een elektrische wagen. Na het nieuws schoot de bitcoin fors hoger, tot een nieuwe recordkoers van 42.595 dollar.&lt;/P&gt;</description>
+            <pubDate>Mon, 08 Feb 2021 15:01:00 +0100</pubDate>
+            <enclosure url="https://static.standaard.be/Assets/Images_Upload/2021/02/08/23d3d572-6a23-11eb-8b6d-3064a6bda2c3_web_scale_0.0888889_0.0888889__.jpg" type="image/jpeg" />
+        </item>
+        <item>
+            <guid isPermaLink="true">https://www.standaard.be/cnt/dmf20210208_94896833</guid>
+            <link>https://www.standaard.be/cnt/dmf20210208_94896833</link>
+            <title>Jacht rijkelui op ‘ruimteafval’ dwarsboomt wetenschappers</title>
+            <description>&lt;P&gt;Minstens 41.000 euro voor een stukje in de Sahara aangetroffen meteoriet. Een unieke maanschilfer: de uwe vanaf 207.000 euro, op een veiling die morgen begint bij Christie’s. Meteorieten en ander ‘ruimteafval’ zijn zo gegeerd dat wetenschappers er geen onderzoek meer op kunnen doen. ‘Een van de uitzonderlijkste vondsten van Mars lag zeven jaar in iemands kluis.’&lt;/P&gt;</description>
+            <pubDate>Mon, 08 Feb 2021 14:35:37 +0100</pubDate>
+            <enclosure url="https://static.standaard.be/Assets/Images_Upload/2021/02/08/e790fed6-59bb-11eb-ba4c-f94560805927_web_scale_0.1142857_0.1142857__.jpg" type="image/jpeg" />
+        </item>
+        <item>
+            <guid isPermaLink="true">https://www.standaard.be/cnt/dmf20210208_93061203</guid>
+            <link>https://www.standaard.be/cnt/dmf20210208_93061203</link>
+            <title>‘Zuur bier’ moet uitgeputte reserves van Brusselse horeca vullen</title>
+            <description>&lt;P&gt;Een zuur brouwsel moet de Brusselse cafés door deze zure coronaperiode loodsen. &lt;/P&gt;</description>
+            <pubDate>Mon, 08 Feb 2021 09:04:00 +0100</pubDate>
+            <enclosure url="https://static.standaard.be/Assets/Images_Upload/2021/02/08/f485369e-696e-11eb-8d4a-b8cd91d9a27d_web_scale_0.233499_0.233499__.jpg" type="image/jpeg" />
+        </item>
+        <item>
+            <guid isPermaLink="true">https://www.standaard.be/cnt/dmf20210207_95123329</guid>
+            <link>https://www.standaard.be/cnt/dmf20210207_95123329</link>
+            <title>Britse export naar EU met 68 procent gedaald in januari</title>
+            <description>&lt;P&gt;De Britse export naar de Europese Unie is in januari met meer dan twee derde gedaald in vergelijking met dezelfde maand in 2020. Dat blijkt uit data van de vrachtvervoerdersorganisatie Road Haulage Association (RHA), waarover de krant The Observer zondag bericht.&lt;/P&gt;</description>
+            <pubDate>Sun, 07 Feb 2021 15:09:39 +0100</pubDate>
+            <enclosure url="https://static.standaard.be/Assets/Images_Upload/2021/02/07/e9b039f4-694a-11eb-ad84-5885f286ec43_web_scale_0.1355473_0.1355473__.jpg" type="image/jpeg" />
+        </item>
+        <item>
+            <guid isPermaLink="true">https://www.standaard.be/cnt/dmf20210206_93079963</guid>
+            <link>https://www.standaard.be/cnt/dmf20210206_93079963</link>
+            <title>Miljoenen euro’s belastingfraude bij onderaannemers PostNL </title>
+            <description>&lt;P&gt;De Bijzondere Belastinginspectie (BBI) heeft onderzoeken gevoerd naar meerdere onderaannemers die voor PostNL pakjes bezorgen in ons land. Er zijn al voor miljoenen euro’s aan belastingclaims verstuurd, vernam ‘De Tijd’. De BBI meent ook een btw-carrousel te hebben blootgelegd waarbij verschillende door PostNL erkende koerierbedrijven betrokken zouden zijn.&lt;/P&gt;</description>
+            <pubDate>Sat, 06 Feb 2021 09:29:35 +0100</pubDate>
+            <enclosure url="https://static.standaard.be/Assets/Images_Upload/2021/02/06/3eaa650e-55b1-11eb-886c-9b9364e67268_web_scale_0.1142857_0.1142857__.jpg" type="image/jpeg" />
+        </item>
+        <item>
+            <guid isPermaLink="true">https://www.standaard.be/cnt/dmf20210205_96442039</guid>
+            <link>https://www.standaard.be/cnt/dmf20210205_96442039</link>
+            <title>Luminus neemt Essent België over</title>
+            <description>&lt;P&gt;Energiebedrijf Luminus neemt concurrent Essent België over. Daardoor wint het bedrijf terrein op marktleider Electrabel: het heeft zo bijna een kwart van de Belgische markt in handen. Op termijn zal de naam Essent in ons land verdwijnen.&lt;/P&gt;</description>
+            <pubDate>Fri, 05 Feb 2021 18:48:47 +0100</pubDate>
+            <enclosure url="https://static.standaard.be/Assets/Images_Upload/2021/02/05/f8ce2b38-67da-11eb-8f57-9af345771c8c_web_scale_0.1251956_0.1251956__.jpg" type="image/jpeg" />
+        </item>
+        <item>
+            <guid isPermaLink="true">https://www.standaard.be/cnt/dmf20210205_95185561</guid>
+            <link>https://www.standaard.be/cnt/dmf20210205_95185561</link>
+            <title>Wet op vrouwenquota niet goed nageleefd</title>
+            <description>&lt;P&gt;Ondanks een wettelijke verplichting hebben nog niet alle beursgenoteerde bedrijven voldoende vrouwelijke bestuurders. Staatssecretaris Sarah Schlitz wil de wet aanscherpen.&lt;/P&gt;</description>
+            <pubDate>Fri, 05 Feb 2021 15:23:26 +0100</pubDate>
+            <enclosure url="https://static.standaard.be/Assets/Images_Upload/2021/02/05/da6181c0-67b4-11eb-8f57-9af345771c8c_web_scale_0.0593014_0.0593014__.jpg" type="image/jpeg" />
+        </item>
+        <item>
+            <guid isPermaLink="true">https://www.standaard.be/cnt/dmf20210205_94540882</guid>
+            <link>https://www.standaard.be/cnt/dmf20210205_94540882</link>
+            <title>Snapchat verwelkomde jongste kwartaal zestien miljoen nieuwe gebruikers</title>
+            <description>&lt;P&gt;Het aantal dagelijkse gebruikers van het sociale netwerk Snapchat is het jongste kwartaal met 16 miljoen gestegen. Dat heeft het bedrijf donderdag gemeld. Hoewel ook de inkomsten stijgen, maakt het bedrijf nog iets meer dan 113 miljoen dollar verlies.&lt;/P&gt;</description>
+            <pubDate>Fri, 05 Feb 2021 13:36:23 +0100</pubDate>
+            <enclosure url="https://static.standaard.be/Assets/Images_Upload/2021/02/05/909c7874-67a0-11eb-8838-cf1705f17a98_web_scale_0.1_0.1__.jpg" type="image/jpeg" />
+        </item>
+        <item>
+            <guid isPermaLink="true">https://www.standaard.be/cnt/dmf20210205_94415033</guid>
+            <link>https://www.standaard.be/cnt/dmf20210205_94415033</link>
+            <title>H&amp;M sluit twee van de drie winkels op de Meir</title>
+            <description>&lt;P&gt;De Zweedse kledingketen H&amp;M snoeit in het aantal winkels op de Meir in Antwerpen. Alleen de flagshipstore tegenover de Stadsfeestzaal blijft over. Ook in Gent gaat een winkel dicht.&lt;/P&gt;</description>
+            <pubDate>Fri, 05 Feb 2021 13:14:41 +0100</pubDate>
+            <enclosure url="https://static.standaard.be/Assets/Images_Upload/2021/02/05/7dcf2600-67ab-11eb-8f57-9af345771c8c_web_scale_0.0664894_0.0664894__.jpg" type="image/jpeg" />
+        </item>
+        <item>
+            <guid isPermaLink="true">https://www.standaard.be/cnt/dmf20210205_93835651</guid>
+            <link>https://www.standaard.be/cnt/dmf20210205_93835651</link>
+            <title>Meer dan kwart van winkels respecteert coronamaatregelen niet: dit zijn de grootste overtreders</title>
+            <description>&lt;P&gt;Inspecteurs van de federale overheidsdienst Volksgezondheid hebben de voorbije drie maanden bijna 6.500 handelszaken gecontroleerd op het naleven van de coronamaatregelen. Daaruit bleek dat 28 procent de regels niet respecteerde. &lt;/P&gt;</description>
+            <pubDate>Fri, 05 Feb 2021 11:38:53 +0100</pubDate>
+            <enclosure url="https://static.standaard.be/Assets/Images_Upload/2021/02/05/6f7b5a4a-66fe-11eb-aacb-3169d0c754c1_web_scale_0.1142857_0.1142857__.jpg" type="image/jpeg" />
+        </item>
+        <item>
+            <guid isPermaLink="true">https://www.standaard.be/cnt/dmf20210205_91609135</guid>
+            <link>https://www.standaard.be/cnt/dmf20210205_91609135</link>
+            <title>Ford verdubbelt investeringen in elektrisch rijden</title>
+            <description>&lt;P&gt;De Amerikaanse autobouwer Ford wil de komende vier jaar 22 miljard dollar investeren in elektrische en zelfsturende auto’s. Dat is bijna een verdubbeling van de eerdere investeringsplannen in stekkerauto’s. &lt;/P&gt;</description>
+            <pubDate>Fri, 05 Feb 2021 05:27:23 +0100</pubDate>
+            <enclosure url="https://static.standaard.be/Assets/Images_Upload/2021/02/05/6b56d234-676a-11eb-8838-cf1705f17a98_web_scale_0.0718391_0.0718391__.jpg" type="image/jpeg" />
+        </item>
+        <item>
+            <guid isPermaLink="true">https://www.standaard.be/cnt/dmf20210204_94952822</guid>
+            <link>https://www.standaard.be/cnt/dmf20210204_94952822</link>
+            <title>Banken verlengen betalingsuitstel tot eind juni</title>
+            <description>&lt;P&gt;De banken geven bedrijven een kwartaal extra betalingspauze. Die liep normaal eind maart af, maar dat wordt nu eind juni. &lt;/P&gt;</description>
+            <pubDate>Thu, 04 Feb 2021 14:24:11 +0100</pubDate>
+            <enclosure url="https://static.standaard.be/Assets/Images_Upload/2021/02/04/2a8c2a2a-6660-11eb-b18e-8d0d26e1a1ff_web_scale_0.0896861_0.0896861__.jpg" type="image/jpeg" />
+        </item>
+        <item>
+            <guid isPermaLink="true">https://www.standaard.be/cnt/dmf20210204_93760766</guid>
+            <link>https://www.standaard.be/cnt/dmf20210204_93760766</link>
+            <title>Oudgediende Leon Van Rompay volgt Fornieri op bij Mithra</title>
+            <description>&lt;P&gt;Leon Van Rompay, één van de grondleggers van het succes van Mithra, wordt de nieuwe ceo ad interim van Mithra. Ondanks zijn leeftijd, lijkt hij de geknipte man.&lt;/P&gt;</description>
+            <pubDate>Thu, 04 Feb 2021 11:29:27 +0100</pubDate>
+            <enclosure url="https://static.standaard.be/Assets/Images_Upload/2021/02/04/d8cca01e-66d4-11eb-aacb-3169d0c754c1_web_scale_0.1010101_0.1010101__.jpg" type="image/jpeg" />
+        </item>
+        <item>
+            <guid isPermaLink="true">https://www.standaard.be/cnt/dmf20210203_97450621</guid>
+            <link>https://www.standaard.be/cnt/dmf20210203_97450621</link>
+            <title>Fiscus int voorlopig geen coronaschulden</title>
+            <description>&lt;P&gt;De FOD Financiën zal tot eind maart geen schulden innen bij ondernemers die lijden onder de coronamaatregelen. Dat meldt minister van Financiën Vincent Van Peteghem (CD&amp;V). &lt;/P&gt;</description>
+            <pubDate>Wed, 03 Feb 2021 21:41:31 +0100</pubDate>
+            <enclosure url="https://static.standaard.be/Assets/Images_Upload/2021/02/04/2a8c2a2a-6660-11eb-b18e-8d0d26e1a1ff_web_scale_0.0896861_0.0896861__.jpg" type="image/jpeg" />
+        </item>
+        <item>
+            <guid isPermaLink="true">https://www.standaard.be/cnt/dmf20210203_94581710</guid>
+            <link>https://www.standaard.be/cnt/dmf20210203_94581710</link>
+            <title>Fiscus en RSZ zullen voorlopig geen bedrijven failliet laten verklaren</title>
+            <description>&lt;P&gt;De fiscus en de Rijksdienst voor Sociale Zekerheid verbinden zich ertoe voorlopig geen bedrijven failliet te laten verklaren die belastings- of sociale schulden hebben. Dat heeft minister van Justitie Vincent Van Quickenborne (Open VLD) gezegd in de Kamercommissie Economie.&lt;/P&gt;</description>
+            <pubDate>Wed, 03 Feb 2021 13:41:43 +0100</pubDate>
+            <enclosure url="https://static.standaard.be/Assets/Images_Upload/2021/02/03/98abb7ee-661c-11eb-b18e-8d0d26e1a1ff_web_scale_0.0813504_0.0813504__.jpg" type="image/jpeg" />
+        </item>
+        <item>
+            <guid isPermaLink="true">https://www.standaard.be/cnt/dmf20210202_97689791</guid>
+            <link>https://www.standaard.be/cnt/dmf20210202_97689791</link>
+            <title>Jeff Bezos stapt op als ceo van Amazon</title>
+            <description>&lt;P&gt;Jeff Bezos stapt dit jaar nog op als ceo van het Amerikaanse bedrijf Amazon. Andy Jassy vervangt Besos als topman van de onlinewinkel.&lt;/P&gt;</description>
+            <pubDate>Wed, 03 Feb 2021 07:08:17 +0100</pubDate>
+            <enclosure url="https://static.standaard.be/Assets/Images_Upload/2021/02/03/75c6d482-659c-11eb-8919-7ceaaf0a34f4_web_scale_0.1142857_0.1142857__.jpg" type="image/jpeg" />
+        </item>
+        <item>
+            <guid isPermaLink="true">https://www.standaard.be/cnt/dmf20210203_91654119</guid>
+            <link>https://www.standaard.be/cnt/dmf20210203_91654119</link>
+            <title>Meer reclame-inkomsten voor Google-moeder Alphabet</title>
+            <description>&lt;P&gt;Toegenomen inkomsten uit advertenties via de zoekmachine Google en het videoplatform Youtube hebben de resultaten van Alphabet gestuwd.&lt;/P&gt;</description>
+            <pubDate>Wed, 03 Feb 2021 05:32:38 +0100</pubDate>
+            <enclosure url="https://static.standaard.be/Assets/Images_Upload/2021/02/03/2d6bbddc-65d9-11eb-949c-99803241bfdc_web_scale_0.0760601_0.0760601__.jpg" type="image/jpeg" />
+        </item>
+        <item>
+            <guid isPermaLink="true">https://www.standaard.be/cnt/dmf20210202_93569880</guid>
+            <link>https://www.standaard.be/cnt/dmf20210202_93569880</link>
+            <title>Mondmaskers voortaan ook aangeraden op kantoor</title>
+            <description>&lt;P&gt;Wie op een gedeeld kantoor werkt, krijgt voortaan ook de raad om daar altijd een mondmasker te dragen. Dat advies geldt zelfs indien er meer dan anderhalve meter afstand kan gehouden worden. Het dragen van een mondmasker met een ventiel of een bandana is niet langer toegestaan op plaatsen waar de mondmaskerplicht geldt. &lt;/P&gt;</description>
+            <pubDate>Tue, 02 Feb 2021 12:01:58 +0100</pubDate>
+            <enclosure url="https://static.standaard.be/Assets/Images_Upload/2021/02/02/3e1090ce-6541-11eb-b805-1de70b0beeb9_web_scale_0.0595238_0.0595238__.jpg" type="image/jpeg" />
+        </item>
+    </channel>
+</rss>
